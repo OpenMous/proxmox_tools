@@ -4,4 +4,5 @@ Colección de scripts en Bash para automatizar tareas de administración en Prox
   - Conversión de VMs en plantillas
   - Clonación automática de máquinas virtuales
   - Automatización de despliegues
+
 Estos scripts están pensados para ejecutarse directamente en el host de Proxmox (como tareas de crontab).
