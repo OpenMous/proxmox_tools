@@ -1,0 +1,2 @@
+110:130:clon-mint:linked
+124:144:clon-arch:full
